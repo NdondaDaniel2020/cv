@@ -1,0 +1,60 @@
+# Perfil Profissional Consolidado — Ndonda Daniel Matondo
+
+### 1. DADOS PESSOAIS & LINKS
+- **Nome Completo:** Ndonda Daniel Matondo
+- **Cargo Alvo / Título:** Software Engineer | Full-Stack & Backend Developer
+- **Localização:** Luanda, Angola
+- **Email:** ndondadaniel2020@gmail.com
+- **Telefone / WhatsApp:** +244 946 555 269
+- **LinkedIn:** https://www.linkedin.com/in/ndonda-daniel-matondo-098370402/
+- **GitHub:** https://github.com/NdondaDaniel2020
+
+---
+
+### 2. RESUMO PROFISSIONAL
+Desenvolvedor de Software com sólida base em Engenharia de Sistemas, desenvolvimento Backend e Observabilidade. Graduado no **Common Core da 42 Luanda** com domínio em ambientes Unix e programação de baixo nível (C/C++), além de experiência prática em ecossistemas modernos (Python/FastAPI, Node.js, React, Docker) e Visão Computacional. Histórico comprovado em liderança técnica em hackathons e entrega de sistemas resilientes em tempo real.
+
+---
+
+### 3. FORMAÇÃO ACADÉMICA
+- **42 Luanda** (2024 – Presente | Luanda, Angola)
+  - Curso: Engenharia de Software (Common Core Concluído)
+  - Foco: Formação intensiva baseada em projetos, com ênfase em Algoritmos e Estruturas de Dados (DSA), programação em C/C++, concorrência e arquitetura de sistemas sem uso de bibliotecas externas.
+- **Instituto Médio Industrial Simione Mucune (IMISM)** (2020 – 2024 | Luanda, Angola)
+  - Curso: Técnico de Informática (Ensino Médio Técnico)
+  - Foco: Fundamentos de algoritmos, lógica de programação, sistemas operacionais, redes de dados e bancos de dados relacionais.
+
+---
+
+### 4. EXPERIÊNCIA PROFISSIONAL & LIDERANÇA
+- **Tech Lead & Arquiteto de Backend — InfraWatch** (2025)
+  - Hackathon RCS & 42 Luanda (Finalista)
+  - Liderou a arquitetura técnica do projeto, definindo padrões de engenharia, desenho de APIs e coordenação de entregas sob prazos restritos.
+  - Desenvolveu o backend em FastAPI (Python) para coleta, processamento e disponibilização de métricas de infraestrutura em tempo real.
+  - Orquestrou o ambiente containerizado com Docker, garantindo isolamento de dependências e deploy ágil.
+- **Desenvolvedor de Software Freelance** (2024 – 2025)
+  - **Miss Xtrela (Sistema de Estoque & Biometria):** Desenvolveu aplicação desktop completa (PySide6/SQLite) com autenticação facial via OpenCV (LBPH / Haar Cascades) e gráficos analíticos, automatizando o fluxo de inventário.
+  - **Fuel Management System:** Projetou API RESTful com autenticação JWT e controle de permissões RBAC, além de modelagem de banco de dados MySQL para postos de combustível.
+
+---
+
+### 5. PRINCIPAIS PROJETOS DE ENGENHARIA
+- **BidLive (ft_transcendence - 42 Luanda):** Plataforma de leilões em tempo real com React, TypeScript, FastAPI, Node.js, Docker, WebSockets, WebRTC (LiveKit), PostgreSQL, Redis e Observabilidade completa (Prometheus, Grafana, Alertmanager, ELK Stack - Elasticsearch, Logstash, Kibana).
+- **Webserv (42 Luanda):** Servidor HTTP/1.1 concorrente em C++98 com multiplexação de I/O (`epoll`/`poll`), suporte a GET, POST, DELETE, uploads multipart e CGI.
+- **Minishell & Inception (42 Luanda):** Interpretador Unix em C com pipelines e sinais POSIX; Infraestrutura multi-containerizada com Docker Compose, NGINX TLS e MariaDB.
+
+---
+
+### 6. COMPETÊNCIAS TÉCNICAS
+- **Linguagens:** C, C++, Python, JavaScript (ES6+), TypeScript, SQL, HTML5/CSS3.
+- **Backend & APIs:** FastAPI, Node.js, RESTful APIs, WebSockets, Redis (Pub/Sub & Cache), JWT, OAuth 2.0 / OIDC, RBAC, CGI.
+- **Frontend & Desktop:** React, Tailwind CSS, JavaScript Vanilla, Componentização & UI Responsiva, PySide6 / PyQt.
+- **Data, IA & Visão Computacional:** OpenCV (LBPH / Haar Cascades), Pandas, NumPy, Matplotlib, Algoritmos Genéticos (NEAT), Web Scraping (BeautifulSoup, Selenium).
+- **Bancos de Dados:** PostgreSQL, MySQL, MongoDB, Redis, SQLite, Modelagem Relacional e Otimização de Consultas.
+- **DevOps & Observabilidade:** Docker, Docker Compose, Linux/Unix, NGINX, GitHub Actions (CI/CD), Prometheus, Grafana, ELK Stack.
+
+---
+
+### 7. IDIOMAS & CONQUISTAS
+- **Idiomas:** Português (Nativo) | Inglês (A2 - Leitura Técnica de Documentação e Artigos).
+- **Conquistas:** Finalista do Hackathon RCS em parceria com a 42 Luanda (Projeto InfraWatch).
